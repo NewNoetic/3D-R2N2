@@ -1,5 +1,5 @@
 numpy==1.16.1
-Theano>=0.8
+Theano>=0.8.1
 EasyDict
 Pillow
 pyyaml
